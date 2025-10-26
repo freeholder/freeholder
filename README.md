@@ -6,7 +6,6 @@
 
 - 🇷🇺 **Russian** — Native  
 - 🇬🇧 **English** — C1
-### 📫 Contact me
 
 <hr style="border: 0; height: 1px; background: #333; margin: 20px 0; opacity: 0.05;" />
 
@@ -28,6 +27,8 @@
 </p>
 
 <hr style="border: 0; height: 1px; background: #333; margin: 20px 0; opacity: 0.05;" />
+
+### 📫 Contact me
 
 <p align="left" style="display: flex; gap: 8px; align-items: center;">
   <a href="https://t.me/egor123dfs" style="text-decoration: none;">
