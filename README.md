@@ -2,7 +2,7 @@
 
 ### 🌍 Languages
 
-<hr style="border: 0; height: 0.5px; background: #fff; margin: 20px 0; opacity: 0.3;" />
+<hr style="border: 0; height: 1px; background: #333; width: 60%; margin: 20px auto; opacity: 0.4;" />
 
 - 🇷🇺 **Russian** — Native  
 - 🇬🇧 **English** — C1
