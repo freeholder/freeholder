@@ -1,61 +1,33 @@
-Hello, I'm Egor! 👋
-<picture> <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=120&text=Egor%20Korniychuk%20🚀&fontColor=FFFFFF&fontSize=24&fontAlignY=35&animation=fadeIn" width="100%"> </picture>
-🧑‍💻 About Me
-💻 Backend Engineer specializing in Golang and distributed systems
-🌍 Native Russian speaker with C1 Fluent English
-📍 Open to remote opportunities and technical collaborations
-🚀 Passionate about building scalable, high-performance backend systems
+# Backend Engineer
 
-🛠️ Tech Stack
-💙 Backend Development
-🐹 Go • 🔄 Concurrent Programming • ⚡ High-Performance Systems
+---
 
-🗄️ Databases
-🐘 PostgreSQL • 🎯 Database Optimization
+### 🧠 Most used languages
 
-🔗 APIs & Communication
-🌐 REST API • 🚀 gRPC  • 🔐 Authentication Systems • 📚 API Documentation
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight)
 
-⚙️ DevOps & Infrastructure
-🐳 Docker •  📚 Git • 🐧 Linux • 🛠️ CI/CD • ☁️ Cloud Services
+---
 
-🔧 Development Tools
-💻 VSCode • 🐙 GitHub • 🔄 Git • 🐛 Debugging • 📝 Technical Documentation
+### 🛠️ Skills
 
-🚀 Technical Expertise
-REST API Development 🌐
-🏗️ Clean API Design with proper HTTP methods and status codes
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+</p>
 
-🔐 Authentication & Authorization (JWT, OAuth2, API Keys)
+---
 
-📚 API Versioning Strategies and comprehensive documentation
+### 📫 Contact me
 
-⚡ Performance Optimization, caching, and rate limiting
-
-🛡️ Security Best Practices and input validation
-
-gRPC & Microservices 🔄
-🚀 High-performance gRPC services in Go
-
-📄 Protocol Buffer schema design and versioning
-
-⏱️ Deadlines, interceptors, and error handling
-
-🌐 gRPC gateway for HTTP/JSON compatibility
-
-System Architecture 🏗️
-🏛️ Microservices and monolithic architectures
-
-🗄️ Database design and query optimization
-
-📨 Message brokers and event-driven systems
-
-🐳 Containerization and orchestration
-
-📊 GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=mythyskaiser&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&hide=issues
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=mythyskaiser&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8&langs_count=8
-
-</div>
+<p align="left">
+  <a href="https://t.me/egor123dfs">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:freeholder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
