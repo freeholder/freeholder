@@ -1,12 +1,12 @@
 # Backend Engineer
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0; opacity: 0.2;" />
 
 ### 🧠 Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeholder&hide_title=true&layout=compact&langs_count=8&bg_color=080808&text_color=ffffff)
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0; opacity: 0.2;" />
 
 ### 🛠️ Skills
 
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0; opacity: 0.2;" />
 
 ### 📫 Contact me
 
