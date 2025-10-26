@@ -23,11 +23,12 @@
 
 ### 📫 Contact me
 
-<p align="left">
-  <a href="https://t.me/egor123dfs">
+<p align="left" style="display: flex; gap: 8px; align-items: center;">
+  <a href="https://t.me/egor123dfs" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:freeholder@gmail.com">
+  <a href="mailto:freeholder@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
