@@ -2,6 +2,8 @@
 
 ### 🌍 Languages
 
+<hr style="border: 0; height: 1px; background: #fff; margin: 20px 0; opacity: 0.3;" />
+
 - 🇷🇺 **Russian** — Native  
 - 🇬🇧 **English** — C1
 
