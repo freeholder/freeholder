@@ -1,60 +1,61 @@
-Hi there 👋
-<picture><img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=110&text=Hi%20There,%20I'm%Egor%20👋&fontColor=FFFFFF&fontSize=20&fontAlignY=20" width="100%"></picture>
+Hello, I'm Egor! 👋
+<picture> <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=120&text=Egor%20Korniychuk%20🚀&fontColor=FFFFFF&fontSize=24&fontAlignY=35&animation=fadeIn" width="100%"> </picture>
+🧑‍💻 About Me
+💻 Backend Engineer specializing in Golang and distributed systems
+🌍 Native Russian speaker with C1 Fluent English
+📍 Open to remote opportunities and technical collaborations
+🚀 Passionate about building scalable, high-performance backend systems
 
-👨‍💻 About Me:
-💻 Backend Software Developer specializing in Go
-🌍 Languages: Native Russian • Fluent English (C1)
-📍 Open to remote opportunities and collaborations
+🛠️ Tech Stack
+💙 Backend Development
+🐹 Go • 🔄 Concurrent Programming • ⚡ High-Performance Systems
 
-🛠 Tech Stack:
-Backend:
-<picture><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"></picture>
+🗄️ Databases
+🐘 PostgreSQL • 🎯 Database Optimization
 
-Databases:
-<picture><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"></picture>
+🔗 APIs & Communication
+🌐 REST API • 🚀 gRPC  • 🔐 Authentication Systems • 📚 API Documentation
 
-APIs & Protocols:
-<picture><img alt="REST API" src="https://img.shields.io/badge/REST%20API-FF6C37.svg?style=for-the-badge&logo=JSON&logoColor=white"></picture>
-<picture><img alt="gRPC" src="https://img.shields.io/badge/gRPC-4CAF50.svg?style=for-the-badge&logo=gRPC&logoColor=white"></picture>
+⚙️ DevOps & Infrastructure
+🐳 Docker •  📚 Git • 🐧 Linux • 🛠️ CI/CD • ☁️ Cloud Services
 
-Tools & DevOps:
-<picture><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"></picture>
-<picture><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></picture>
-<picture><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"></picture>
+🔧 Development Tools
+💻 VSCode • 🐙 GitHub • 🔄 Git • 🐛 Debugging • 📝 Technical Documentation
 
-Development:
-<picture><img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></picture>
+🚀 Technical Expertise
+REST API Development 🌐
+🏗️ Clean API Design with proper HTTP methods and status codes
 
-🚀 Technical Expertise:
-REST API Development:
+🔐 Authentication & Authorization (JWT, OAuth2, API Keys)
 
-Designing clean, RESTful APIs with proper HTTP methods and status codes
+📚 API Versioning Strategies and comprehensive documentation
 
-Implementing authentication & authorization (JWT, OAuth2)
+⚡ Performance Optimization, caching, and rate limiting
 
-API versioning strategies and documentation (OpenAPI/Swagger)
+🛡️ Security Best Practices and input validation
 
-Rate limiting, caching, and performance optimization
+gRPC & Microservices 🔄
+🚀 High-performance gRPC services in Go
 
-gRPC & Protocol Buffers:
+📄 Protocol Buffer schema design and versioning
 
-Building high-performance gRPC services in Go
+⏱️ Deadlines, interceptors, and error handling
 
-Protocol Buffer schema design and versioning
+🌐 gRPC gateway for HTTP/JSON compatibility
 
-Bidirectional streaming, deadlines, and error handling
+System Architecture 🏗️
+🏛️ Microservices and monolithic architectures
 
-gRPC gateway for HTTP/JSON compatibility
+🗄️ Database design and query optimization
 
-Backend Architecture:
+📨 Message brokers and event-driven systems
 
-Microservices and monolithic architectures
+🐳 Containerization and orchestration
 
-Database design and optimization (SQL & NoSQL)
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=mythyskaiser&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&hide=issues
 
-Message brokers (RabbitMQ, Kafka)
+https://github-readme-stats.vercel.app/api/top-langs/?username=mythyskaiser&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8&langs_count=8
 
-Containerization and orchestration
-
-📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api/top-langs/?username=mythyskaiser&hide_title=true&layout=compact&langs_count=8&bg_color=080808&text_color=ffffff
+</div>
