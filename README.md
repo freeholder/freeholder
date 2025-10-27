@@ -2,8 +2,8 @@
 
 ## 🌍 Languages
 
-<img src="https://flagcdn.com/w40/ru.png" width="20" alt="RU"> 🇷🇺 — Native  
-<img src="https://flagcdn.com/w40/gb.png" width="20" alt="GB"> 🇬🇧 — C1
+<img src="https://flagcdn.com/w40/ru.png" width="20" alt="RU"> 🇷🇺 Native  
+<img src="https://flagcdn.com/w40/gb.png" width="20" alt="GB"> 🇬🇧 C1
 
 ## 🧠 Most used languages
 
