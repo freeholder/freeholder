@@ -7,7 +7,7 @@
   <span style="vertical-align: middle;">🇷🇺 — Native</span>
   <br />
   <img src="https://flagcdn.com/w40/gb.png" width="20" height="15" alt="GB" style="vertical-align: middle; margin-right: 8px;" /> 
-  <span style="vertical-align: middle;">🇬🇧 — C1</span>
+  <span style="vertical-align: middle;">🇬🇧 — C2</span>
 </p>
 
 ## 🧠 Most used languages
