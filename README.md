@@ -27,5 +27,5 @@
 
 ## 📫 Contact me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/egor123dfs)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:freeholder@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/eggor123)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:freeholder101@gmail.com)
