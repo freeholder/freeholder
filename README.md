@@ -28,4 +28,4 @@
 ## 📫 Contact me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/eggor123)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:freeholder101@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](freeholder101@gmail.com)
